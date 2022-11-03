@@ -12,6 +12,9 @@
 <div>
 
 ```안녕하세요! 개발을 공부중인 주환오라고 합니다.```
+<br><br>
+📫&nbsp;<img alt="Naver" src ="https://img.shields.io/badge/ghksdh587@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;📫
+
 
 </div>
 
