@@ -15,14 +15,22 @@
 
 </div>
 
+
 ---
+<br><br>
 
 <h2>🖥&nbsp; Tech Stack &nbsp;🖥</h2>
 
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="java" src ="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<br>
+<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+</br>
+<img alt="CSS" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img alt="Html5" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<br><br>
+
+
 
 </div>
 
