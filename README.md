@@ -3,7 +3,12 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFCC33&height=250&section=header&text=Development&fontSize=70&animation=twinkling&fontColor=032539&rotate=16&fontAlign=73&fontAlignY=36.5&desc=Project%20By%20HwnaO&descAlign=70&descAlignY=57)
+
+<div align="center">
+
 ![b8fde88cdd017c1c4b140b6884daed11](https://user-images.githubusercontent.com/110041859/199667471-e6595787-64d5-4e41-b1b6-278cb8767d64.gif)
+
+</div>
 
 ---
 
