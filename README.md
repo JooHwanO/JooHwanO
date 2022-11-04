@@ -26,9 +26,8 @@
 
 </div>
 
-
 ---
-<br><br>
+
 
 <h2>🖥&nbsp; Tech Stack &nbsp;🖥</h2>
 
