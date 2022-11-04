@@ -21,7 +21,7 @@
 <br><br>
 📫 <strong>Eamil</strong> : &nbsp; <a href="https://mail.naver.com/write"><img alt="Naver" src ="https://img.shields.io/badge/ghksdh587@naver.com-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>&nbsp;
   <br>
-📋 <strong>BLOG</strong> : &nbsp;<a href="https://first-soldier-977.notion.site/bd0769fb57d64f3f9a4e828d52c2b492"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;
+📋 <strong> BLOG </strong> : &nbsp; <a href="https://first-soldier-977.notion.site/bd0769fb57d64f3f9a4e828d52c2b492"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>&nbsp;
 
 
 </div>
